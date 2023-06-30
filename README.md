@@ -1,5 +1,5 @@
 ### Hi there 👋  
-### <div align="center">I'm Ukeme Bassey, a back-end web developer 👨‍💻</div>  
+### <div align="center">I'm Ukeme Bassey, a Python Back-End developer 👨‍💻</div>  
   
 
 - 🔭 I build dynamic and responsive websites.  

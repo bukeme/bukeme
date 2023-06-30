@@ -5,7 +5,13 @@
 - 🔭 I build dynamic and responsive websites.  
   
 
-- ❓ Ask me about anything related to Python, Django, JavaScript and related technologies  
+- ❓ Ask me about anything related to Python, Django, JavaScript and related technologies.
+
+
+- 📫 How to reach me **basseyukemme@gmail.com**
+  
+
+- 👨‍💻 All of my projects are available at [bukeme.github.io/ukemebassey/](https://bukeme.github.io/ukemebassey/)
   
 
 - ⚡ I'm open to python back-end development roles.  
